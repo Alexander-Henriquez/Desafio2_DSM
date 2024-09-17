@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">ComidaMexicana</string>
+    <string name="image_description">Descripción de la imagen</string>
+    <string name="dish_image_description">Imagen del platillo</string>
+
+    <!-- Mexican Dishes -->
+    <string name="tacos_al_pastor">Tacos al Pastor</string>
+    <string name="tacos_al_pastor_price">$10.99</string>
+    <string name="enchiladas_rojas">Enchiladas Rojas</string>
+    <string name="enchiladas_rojas_price">$12.49</string>
+    <string name="chiles_en_nogada">Chiles en Nogada</string>
+    <string name="chiles_en_nogada_price">$15.99</string>
+    <string name="pozole_rojo">Pozole Rojo</string>
+    <string name="pozole_rojo_price">$13.99</string>
+    <string name="tamales">Tamales</string>
+    <string name="tamales_price">$11.49</string>
+    <string name="mole_poblano">Mole Poblano</string>
+    <string name="mole_poblano_price">$14.99</string>
+    <string name="sopes">Sopes</string>
+    <string name="sopes_price">$9.99</string>
+    <string name="quesadillas">Quesadillas</string>
+    <string name="quesadillas_price">$8.99</string>
+    <string name="burritos">Burritos</string>
+    <string name="burritos_price">$12.49</string>
+    <string name="tostadas">Tostadas</string>
+    <string name="tostadas_price">$7.99</string>
+    <string name="guacamole">Guacamole</string>
+    <string name="guacamole_price">$6.99</string>
+    <string name="chilaquiles">Chilaquiles</string>
+    <string name="chilaquiles_price">$11.99</string>
+    <string name="ceviche">Ceviche</string>
+    <string name="ceviche_price">$13.49</string>
+</resources>
+
+
+
+

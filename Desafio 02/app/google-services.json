@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298142064365",
+    "project_id": "comida-mexicana-1c69a",
+    "storage_bucket": "comida-mexicana-1c69a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298142064365:android:b7f10dd08e9c17035576e4",
+        "android_client_info": {
+          "package_name": "com.example.comidamexicana"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiwwq1MmnguU2_q6R6J7NaMccgJ5S-ZGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
